@@ -18,3 +18,4 @@
 * Слияние (Merge)
 * Тестовый commit на ветке awesome-feature
 * Тестовый коммит на ветке merge-commit
+* Тестовый коммит на ветке master
